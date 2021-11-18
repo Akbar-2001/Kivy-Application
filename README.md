@@ -1,0 +1,2 @@
+# Kivy-Application
+This application consists of college details like, administration, fee structure, courses. This application was build using kivy frame in python..This Project in python is a simple Console application with Graphics. In this project,you can check all the details of the college. It is a user interface Application. The source code for SNTI Application in python is complete and totally error-free. It is compiled in PYCHARM.
